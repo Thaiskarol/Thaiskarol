@@ -5,9 +5,6 @@
 Me chamo Thaís Karol, tenho 19 anos e sou de Recife/PE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (através do programa - Embarque Digital). 
 
 
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
