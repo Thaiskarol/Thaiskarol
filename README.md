@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Thaís Karol
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Frontend`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Thaís Karol, tenho 19 anos e sou de Recife/PE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (através do programa - Embarque Digital). 
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
